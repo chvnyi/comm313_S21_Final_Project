@@ -4,7 +4,8 @@
     * I created several sub-folders to better organize the data.
     * NOTE: a Lexis Nexis bulk download would've been more appropriate; however, the bulk download requests weren't properly working at the time of this project, so I had to download everything in 100 article chunks.
   
-* LN_data - main folder with all of the Lexis Nexis data collected from the years 2017 - 2021
+ LN_data - main folder with all of the Lexis Nexis data collected from the years 2017 - 2021
+ 
     |
     +-- cleaned - from `LN_cleaned` and taken from raw, these json files were created to make data analysis more manageable
            |
