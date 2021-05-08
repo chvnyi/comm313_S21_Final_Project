@@ -10,7 +10,8 @@
 * `0427_presentation` - a short presentation on the current progression on my project; displays results from my initial findings using pilot data
 
 
-* photos - a folder with all of the photos used in the presentation
+photos - a folder with all of the photos used in the presentation
+    
     |
     +-- freq.png
     +-- freq2.png
