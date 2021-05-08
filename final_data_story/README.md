@@ -6,7 +6,9 @@
 
 * `COMM313_final` - the blog/op-ed post that compiles my analyses and narrative
 
-* photos - the folder that has all of the photos used in the blog post (notebook) 
+
+ photos - the folder that has all of the photos used in the blog post (notebook) 
+ 
     |
     +-- COMM313.png - cover photo
     +-- hypocrisy.jpeg - real life example of differing new article titles
