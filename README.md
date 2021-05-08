@@ -5,7 +5,7 @@
 Hello! My name is Vivienne Chen and this is my final project for the Spring 2021 semester of COMM313: Computations Txt Analysis. I decided to do my project on the evaluation of American media coverage on China as a result of the increase of anti-Asian hate crimes. While the pandemic has played a huge role in these attacks, it is not the pandemic alone that has contributed to the negative sentiments Americans feel towards Asians/Asian Americans (more specifically Chinese Americans). 
 
 * comm313_S21_Final_Project
-            |
+*           |
             +-- README.md (A)
             |
             +-- data
